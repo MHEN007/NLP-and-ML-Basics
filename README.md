@@ -8,10 +8,14 @@ I am currently covering topics about:
 2. Sentiment Analysis using VADER
 3. Text Classification with Tf-Idf
 4. Topic Modelling using LDA and NMF
+5. Neural Network with Tensorflow and Keras
+6. BERT text classification with Hugging Face
 
 The notebooks provided uses the following modules:
 1. NLTK
 2. spaCy
+3. Hugging Face
+4. Tensor Flow
 
 I will continue to update this repository along the way.
 
