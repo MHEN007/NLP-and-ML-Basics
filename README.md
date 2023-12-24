@@ -10,12 +10,14 @@ I am currently covering topics about:
 4. Topic Modelling using LDA and NMF
 5. Neural Network with Tensorflow and Keras
 6. BERT text classification with Hugging Face
+7. Neural Network with PyTorch
 
-The notebooks provided uses the following modules:
+The notebooks provided uses the following modules/framework:
 1. NLTK
 2. spaCy
 3. Hugging Face
-4. Tensor Flow
+4. Tensorflow
+5. PyTorch
 
 I will continue to update this repository along the way.
 
